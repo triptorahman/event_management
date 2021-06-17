@@ -12,10 +12,10 @@ Admin Panel
 username: admin
 password: admin
 
-User Panel
+User Panel info
 username:tripto
 password:12345
-(you can add an user From Signup)
+(You can add an user From Signup)
 
 *Both Client Side validation and Server Site Validation Done.
 *Session Done
