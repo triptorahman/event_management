@@ -3,7 +3,7 @@
 Then Import "event_db.sql"
 Then You can Login.
 
-Xampp version 3.2.4
+Xampp version 7.4.16
 PHP Version 7.4.16
 
 /**********************/
